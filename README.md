@@ -9,3 +9,6 @@ This approach requires a deeper understanding of the text, as it must be able to
 Abstractive summarization can produce more fluent and coherent summaries, but it is also more computationally expensive.\n\n
 In this project, I have performed Abstractive Summarization on a news dataset using **Bidirectional LSTM** and **Pegasus** ,which is a pretrained Transformer
 and compared their results. Transformers clearly outperform LSTM ,being more context aware with the help of attention mechanism.
+
+
+Refer to the .py file for the code implementation of the same.
